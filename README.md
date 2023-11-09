@@ -1,5 +1,13 @@
 # OCaml
 
+## Table of Contents
+
+-   [OCaml](#ocaml)
+    -   [Table of Contents](#table-of-contents)
+    -   [Sessions](#sessions)
+    -   [Tutorials](#tutorials)
+    -   [OCaml Programming: Correct + Efficient + Beautiful (Michael Ryan Clarkson)](#ocaml-programming-correct--efficient--beautiful-michael-ryan-clarkson)
+
 ## Sessions
 
 1. [Session - 24.10.23](Sessions/1-%20Session%20-%2024.10.23.md)
