@@ -1,5 +1,14 @@
 # Session (09.11.23)
 
+## Table of Contents
+
+-   [Session (09.11.23)](#session-091123)
+    -   [Table of Contents](#table-of-contents)
+    -   [Resources](#resources)
+    -   [Notes](#notes)
+    -   [Higher Order Functions](#higher-order-functions)
+    -   [Polymorphism](#polymorphism)
+
 ## Resources
 
 ## Notes
