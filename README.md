@@ -13,3 +13,7 @@
 
 1. [Tutorial - 25.10.23](Tutorials/1-%2025.10.23.md)
 2. [Tutorial - 08.11.23](Tutorials/2-%2008.11.23.md)
+
+## OCaml Programming: Correct + Efficient + Beautiful (Michael Ryan Clarkson)
+
+1. [Youtube Playlist](OCaml%20Programming%20Correct%20Efficient%20Beautiful%20Michael%20Ryan%20Clarkson/OCaml%20Programming%20Correct-Efficient-Beautiful.md)
