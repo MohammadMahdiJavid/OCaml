@@ -34,7 +34,7 @@
 4. Double Semicolon
 
     1. we are done entering expression and we want OCaml evaluate the expression down to a value
-    2. ![alt](Images/17-%20Session%20-%20Program.jpg)
+    2. ![alt](../Images/17-%20Session%20-%20Program.jpg)
     3. ```ocaml
         # 3110;;
         - : int = 3110
@@ -101,7 +101,7 @@
              int
        ```
 
-    4. ![alt](Images/18-%20Session%20-%20Program.jpg)
+    4. ![alt](../Images/18-%20Session%20-%20Program.jpg)
     5. Type Annotation, to ask Type Checker to verify that for us
 
 7. Conditions
@@ -110,7 +110,7 @@
         if 2 > 1 then 3 else 4;;
         - : int = 3
        ```
-    3. ![alt](Images/19-%20Session%20-%20Program.jpg)
+    3. ![alt](../Images/19-%20Session%20-%20Program.jpg)
     4. Guard is going to be a boolean expression
         1. evaluates to true / false
     5. true
@@ -132,9 +132,9 @@
         6. so throws an Error
     8. if e1 then e2 else e3
         1. e : expression
-    9. ![alt](Images/20-%20Session%20-%20Program.jpg)
-    10. ![alt](Images/21-%20Session%20-%20Program.jpg)
-    11. ![alt](Images/22-%20Session%20-%20Program.jpg)
+    9. ![alt](../Images/20-%20Session%20-%20Program.jpg)
+    10. ![alt](../Images/21-%20Session%20-%20Program.jpg)
+    11. ![alt](../Images/22-%20Session%20-%20Program.jpg)
 8. let keyword
 
     1. ```ocaml
@@ -159,4 +159,4 @@
         1. giving a name to a value
         2. not expressions
         3. definitions contain expressions
-    3. ![alt](Images/23-%20Session%20-%20Program.jpg)
+    3. ![alt](../Images/23-%20Session%20-%20Program.jpg)

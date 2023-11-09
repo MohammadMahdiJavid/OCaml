@@ -85,7 +85,7 @@
          val sqrt : int -> int = <fun>
        ```
 
-    8. ![alt](Images/24-%20Session%20-%20Program.jpg)
+    8. ![alt](../Images/24-%20Session%20-%20Program.jpg)
 
 4. Finding Zeros of a function
 

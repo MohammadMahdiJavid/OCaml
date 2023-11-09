@@ -67,7 +67,7 @@
         5. then assigning or binding the identifier to this particular value
         6. rest of program identifier stands for the value that has been computed on the right hand side
         7. bind the value to identifier/variable a
-    11. ![Screenshot 1](Images/2-%20Session%20-%20Program.jpg)
+    11. ![Screenshot 1](../Images/2-%20Session%20-%20Program.jpg)
     12. Program
         1. Sequence of Declarations
     13. Expressions
@@ -81,7 +81,7 @@
         3. Result is a Number represented by a type and in OCaml, this type is called int
         4. int : Integer : Ganze Zahl
         5. Element of Z
-        6. ![Screenshot 2](Images/3-%20Session%20-%20Program.jpg)
+        6. ![Screenshot 2](../Images/3-%20Session%20-%20Program.jpg)
         7. from -infinity to +infinity
             1. No Fractional Numbers
             2. No Real Numbers
@@ -110,7 +110,7 @@
     17. Types come with consistency rules
         1. OCaml automatically checks for you
         2. discards a lot of programming errors
-    18. ![Screenshot 3](Images/4-%20Session%20-%20Program.jpg)
+    18. ![Screenshot 3](../Images/4-%20Session%20-%20Program.jpg)
 6.  Shadowing
     1. what happens if i redclare a variable?
     2. ```ocaml
@@ -147,7 +147,7 @@
 9.  Interpreter
     1. NOT SO FAST
     2. Software that mimic / interprete / simulate the execution of Computer Programs in specific environment
-    3. ![Screenshot 4](Images/5-%20Session%20-%20Program.jpg)
+    3. ![Screenshot 4](../Images/5-%20Session%20-%20Program.jpg)
     4. ```ocaml
         let a  = 2 * 3 + 2
        ```
@@ -157,8 +157,8 @@
         2. colon
         3. inferred the type int for variable a
         4. variable a is bound to the value of 8
-        5. ![Screenshot 5](Images/6-%20Session%20-%20Program.jpg)
-        6. ![Screenshot 6](Images/7-%20Session%20-%20Program.jpg)
+        5. ![Screenshot 5](../Images/6-%20Session%20-%20Program.jpg)
+        6. ![Screenshot 6](../Images/7-%20Session%20-%20Program.jpg)
 10. Semicolons
     1.
 11. Type Inferring
@@ -172,7 +172,7 @@
     5. identifier b has TYPE INT
 12. Shadowing
 
-    1. ![alt](Images/8-%20Session%20-%20Program.jpg)
+    1. ![alt](../Images/8-%20Session%20-%20Program.jpg)
     2. a is rebound to this value 3
     3. ```ocaml
         let a = 2 * 3 + 2
@@ -185,11 +185,11 @@
         *)
        ```
 
-    4. ![alt](Images/9-%20Session%20-%20Program.jpg)
+    4. ![alt](../Images/9-%20Session%20-%20Program.jpg)
 
 13. Functions
 
-    1.  ![alt](Images/10-%20Session%20-%20Program.jpg)
+    1.  ![alt](../Images/10-%20Session%20-%20Program.jpg)
     2.  ```ocaml
          let square = (fun x -> x * x)
          let a = square 2
@@ -201,13 +201,13 @@
          let c = square3 4
         ```
 
-    3.  ![alt](Images/11-%20Session%20-%20Program.jpg)
-    4.  ![alt](Images/12-%20Session%20-%20Program.jpg)
-    5.  ![alt](Images/13-%20Session%20-%20Program.jpg)
+    3.  ![alt](../Images/11-%20Session%20-%20Program.jpg)
+    4.  ![alt](../Images/12-%20Session%20-%20Program.jpg)
+    5.  ![alt](../Images/13-%20Session%20-%20Program.jpg)
     6.  Type definition using colon (:)
         1. val a : int
         2. val square : int -> int
-    7.  ![alt](Images/14-%20Session%20-%20Program.jpg)
+    7.  ![alt](../Images/14-%20Session%20-%20Program.jpg)
     8.  ```ocaml
                          (* x aval parameter hast *)
          let square = fun x -> x * x
@@ -219,12 +219,12 @@
     10.                  x : parameter
     11. square 2
     12.        2 : argument
-    13. ![alt](Images/15-%20Session%20-%20Program.jpg)
+    13. ![alt](../Images/15-%20Session%20-%20Program.jpg)
     14. ```ocaml
         let square x = x * x
         let square2 = fun x -> x * x
         ```
-    15. ![alt](Images/16-%20Session%20-%20Program.jpg)
+    15. ![alt](../Images/16-%20Session%20-%20Program.jpg)
     16. Local Declaration Function
         1.  ```ocaml
             let pow8 x = let square x = x * x in square (square x)
